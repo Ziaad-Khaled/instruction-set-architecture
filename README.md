@@ -1,6 +1,5 @@
-# Project Overview
+# Processor Design Simulation in Java
 
-**Processor Design Simulation in Java**
 
 Processor design is the engineering task of creating a processor, a crucial component of computer hardware. The design process includes selecting an instruction set and an execution paradigm, resulting in a microarchitecture. A processor operates by executing lists of instructions, which can include computations, data manipulation, memory access, and program flow control.
 
